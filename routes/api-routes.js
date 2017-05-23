@@ -1,13 +1,3 @@
-// *********************************************************************************
-// api-routes.js - this file offers a set of routes for displaying and saving data to the db
-// *********************************************************************************
-
-// Dependencies
-// =============================================================
-
-// grab the orm from the config
-// (remember: connection.js -> orm.js -> route file)
-//var orm = require("../config/orm.js");
 var db = require("../models");
 // Routes
 // =============================================================
